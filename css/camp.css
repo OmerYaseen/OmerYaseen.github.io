@@ -111,3 +111,59 @@
   font-size: 30px;
   color: blue;
 }
+
+footer {
+height: 100px;
+width: 100%;
+color: white;
+background-color: none;
+text-align: center;
+position: relative;
+margin-top: 0px;
+left: 0;
+right: 0;
+bottom: 0;
+}
+
+footer p1 {
+	background-color: black;
+	font-size: 20px;
+	margin-bottom: 800px;
+	margin-top: 500px;
+}
+
+/* Style all font awesome icons */
+.fa {
+		padding: 20px;
+		font-size: 30px;
+		width: 50px;
+		text-align: center;
+		text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+		opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+		background: #3B5998;
+		color: white;
+		margin-top: -50px;
+}
+
+/* Twitter */
+.fa-twitter {
+		background: #55ACEE;
+		color: white;
+		margin-top: -50px;
+}
+
+.fa-instagram {
+		background: darkblue;
+		color: white;
+		margin-top: -50px;
+}
